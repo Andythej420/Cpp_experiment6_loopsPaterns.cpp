@@ -1,6 +1,6 @@
-// Dev Darji
-// PRN - 24070123033
-// ENTC A2
+// Anjaneya Kalchuri
+// PRN - 24070123015
+// ENTC A1
 // EXPERIMENT 06
 
 #include <iostream>
