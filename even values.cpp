@@ -1,0 +1,13 @@
+// Anjaneya Kalchuri
+// PRN - 24070123015
+// ENTC A1
+// EXPERIMENT 06
+
+#include <iostream>
+using namespace std;
+int main() {
+    for (int i=2; i<=10; i+=2) {
+        cout << i<<endl;
+    }
+    return 0;
+}
